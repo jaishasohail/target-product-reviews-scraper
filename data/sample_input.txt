@@ -1,0 +1,3 @@
+text# Sample Target product URLs (replace with your own before running)
+https://www.target.com/p/boys-short-sleeve-performance-uniform-polo-shirt-cat-jack-black/-/A-90171336
+https://www.target.com/p/women-s-slim-fit-short-sleeve-t-shirt-a-new-day/-/A-89676621
