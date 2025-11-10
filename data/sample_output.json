@@ -1,0 +1,80 @@
+[
+ {
+ "Product URL": "https://www.target.com/p/boys-short-sleeve-performance-uniform-polo-shirt-cat-jack-black/-/A-90171336",
+ "Product ID": "90171336",
+ "Review Count": 2,
+ "Recommended Count": 1,
+ "Not Recommended Count": 1,
+ "Rating Distribution": {
+ "1": 1,
+ "2": 0,
+ "3": 0,
+ "4": 0,
+ "5": 1
+ },
+ "Average Rating": 3.0,
+ "Positive Percentage": 50,
+ "Secondary Averages": [
+ {
+ "Label": "comfort",
+ "Value": 4.5
+ },
+ {
+ "Label": "quality",
+ "Value": 3.5
+ }
+ ]
+ },
+ {
+ "Product URL": "https://www.target.com/p/boys-short-sleeve-performance-uniform-polo-shirt-cat-jack-black/-/A-90171336",
+ "Product ID": "90171336",
+ "Review ID": "example-1",
+ "Rating": 5,
+ "Title": "Perfect school shirt",
+ "Text": "Great quality and fit. My son loves it and it washes well.",
+ "Submitted Date": "2025-08-03T21:56:08.000+00:00",
+ "Helpful Votes": 3,
+ "Unhelpful Votes": 0,
+ "Author Nickname": "HappyDad",
+ "Is Incentivized": false,
+ "Is Verified": true,
+ "Secondary Ratings": [
+ {
+ "Label": "comfort",
+ "Value": 5
+ },
+ {
+ "Label": "quality",
+ "Value": 4
+ }
+ ],
+ "Photos": [],
+ "Client Responses": []
+ },
+ {
+ "Product URL": "https://www.target.com/p/boys-short-sleeve-performance-uniform-polo-shirt-cat-jack-black/-/A-90171336",
+ "Product ID": "90171336",
+ "Review ID": "example-2",
+ "Rating": 1,
+ "Title": "Color faded quickly",
+ "Text": "After a few washes the shirt looks worn out.",
+ "Submitted Date": "2025-08-10T11:16:08.000+00:00",
+ "Helpful Votes": 1,
+ "Unhelpful Votes": 2,
+ "Author Nickname": "UnhappyCustomer",
+ "Is Incentivized": false,
+ "Is Verified": true,
+ "Secondary Ratings": [
+ {
+ "Label": "comfort",
+ "Value": 4
+ },
+ {
+ "Label": "quality",
+ "Value": 3
+ }
+ ],
+ "Photos": [],
+ "Client Responses": []
+ }
+]
